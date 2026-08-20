@@ -82,7 +82,7 @@ export const DISHES = [
     description:
       "Housemade paneer simmered in a velvet tomato-cashew gravy, tempered with kasuri methi and fresh cream.",
     image:
-      "/src/assets/panner-lababdar.png",
+      "/panner-lababdar.png",
   },
   {
     id: "d7",
@@ -94,7 +94,7 @@ export const DISHES = [
     description:
       "Black lentils, slow-simmered for eighteen hours over embers, enriched with butter and a whisper of smoke.",
     image:
-      "/src/assets/dal-ananta.png",
+      "/dal-ananta.png",
   },
   {
     id: "d8",
@@ -106,7 +106,7 @@ export const DISHES = [
     description:
       "Kerala's harvest medley — mixed vegetables in coconut and raw mango, finished with cold-pressed coconut oil.",
     image:
-      "/src/assets/avial.png",
+      "/avial.png",
   },
   {
     id: "d9",
@@ -118,7 +118,7 @@ export const DISHES = [
     description:
       "The Delhi classic — tandoor-charred chicken folded into a tomato-butter gravy, born of Partition-era kitchens.",
     image:
-      "/src/assets/butter-chicken.png",
+      "/butter-chicken.png",
   },
   {
     id: "d10",
@@ -130,7 +130,7 @@ export const DISHES = [
     description:
       "A Rajasthani hunter's curry — mutton braised with Mathania chiles and garlic until deeply, fiercely red.",
     image:
-      "/src/assets/laal-maas.png",
+      "/laal-maas.png",
   },
   {
     id: "d11",
@@ -142,7 +142,7 @@ export const DISHES = [
     description:
       "Tamil Nadu's peppercorn-and-star-anise masterpiece, roasted whole spices ground fresh with every batch.",
     image:
-      "/src/assets/chettinad-chicken.png",
+      "/chettinad-chicken.png",
   },
   {
     id: "d12",
@@ -154,7 +154,7 @@ export const DISHES = [
     description:
       "Hilsa steamed in a mustard-seed paste and green chile, wrapped in banana leaf — a Bengal monsoon ritual.",
     image:
-      "/src/assets/bengali-shorshe-ilish.png",
+      "/bengali-shorshe-ilish.png",
   },
   {
     id: "d13",
@@ -166,7 +166,7 @@ export const DISHES = [
     description:
       "A winter harvest of root vegetables and fenugreek dumplings, slow-cooked upside down in a clay matka.",
     image:
-      "/src/assets/gujarati-undhiyu.png",
+      "/gujarati-undhiyu.png",
   },
   {
     id: "d14",
@@ -177,7 +177,7 @@ export const DISHES = [
     price: "₹90",
     description: "Whole wheat, hand-pressed and puffed to order in our clay oven.",
     image:
-      "/src/assets/tandoori-roti.png",
+      "/tandoori-roti.png",
   },
   {
     id: "d15",
@@ -188,7 +188,7 @@ export const DISHES = [
     price: "₹140",
     description: "Layered, flaky and ghee-brushed, folded by hand into a coiled tower before rolling.",
     image:
-      "/src/assets/laccha-paratha.png",
+      "/laccha-paratha.png",
   },
   {
     id: "d16",
@@ -199,7 +199,7 @@ export const DISHES = [
     price: "₹180",
     description: "Stuffed with cherries, almonds and coconut — a festive bread from the Valley.",
     image:
-      "/src/assets/kashmiri-naan.png",
+      "/kashmiri-naan.png",
   },
   {
     id: "d17",
@@ -211,7 +211,7 @@ export const DISHES = [
     description:
       "Mutton and basmati layered dum-style, sealed in dough and finished with saffron and fried onion.",
     image:
-      "/src/assets/hyderabadi-biryani.png",
+      "/hyderabadi-biryani.png",
   },
   {
     id: "d18",
@@ -234,7 +234,7 @@ export const DISHES = [
     price: "₹280",
     description: "Milk-solid dumplings fried to a deep amber and soaked in cardamom-rose syrup.",
     image:
-      "/src/assets/gulab-jamun.png",
+      "/gulab-jamun.png",
   },
   {
     id: "d20",
@@ -245,7 +245,7 @@ export const DISHES = [
     price: "₹260",
     description: "Caramelised jaggery yoghurt, set slow in earthen clay pots overnight.",
     image:
-      "/src/assets/bengal-mishti-doi.png",
+      "/bengal-mishti-doi.png",
   },
   {
     id: "d21",
@@ -256,7 +256,7 @@ export const DISHES = [
     price: "₹180",
     description: "Assam leaf tea, simmered with ginger, cardamom and clove — poured tableside.",
     image:
-      "/src/assets/masala-chai.png",
+      "/masala-chai.png",
   },
   {
     id: "d22",
@@ -267,6 +267,6 @@ export const DISHES = [
     price: "₹220",
     description: "A sharp desert cooler of roasted cumin, mint and black salt, served over crushed ice.",
     image:
-      "/src/assets/jodhpuri-jaljeera.png",
+      "/jodhpuri-jaljeera.png",
   },
 ];
