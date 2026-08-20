@@ -33,7 +33,7 @@ export default function Hero() {
         className="hero-bg absolute inset-0 bg-cover bg-center opacity-60"
         style={{
           backgroundImage:
-            "url('/src/assets/amritsari-fish-tikka.png')",
+            "url('/amritsari-fish-tikka.png')",
         }}
         role="img"
         aria-label="Warmly lit interior of Ananta restaurant with tandoor flames and spice-laden tables"

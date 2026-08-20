@@ -45,7 +45,7 @@ export default function Home() {
           <ScrollReveal className="md:col-span-5 relative order-2 md:order-1">
             <div data-reveal className="relative aspect-[4/5] overflow-hidden">
               <img
-                src="/src/assets/welcome.png"
+                src="/welcome.png"
                 alt="Ananta restaurant chef and staff welcoming guests in an Indian heritage dining space"
                 loading="lazy"
                 className="w-full h-full object-cover"

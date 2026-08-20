@@ -33,7 +33,7 @@ export default function Reservations() {
           <ScrollReveal className="lg:col-span-5 relative">
             <div data-reveal className="relative aspect-[4/5] overflow-hidden">
               <img
-                src="/src/assets/reservation.png"
+                src="/reservation.png"
                 alt="The Jharokha private dining booth at Ananta"
                 loading="lazy"
                 className="w-full h-full object-cover"
