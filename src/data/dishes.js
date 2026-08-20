@@ -22,7 +22,7 @@ export const DISHES = [
     description:
       "Basa fillets marinated in carom seed, gram flour and ginger, seared in the tandoor till the crust crackles.",
     image:
-      "/src/assets/amritsari-fish-tikka.png",
+      "./src/assets/amritsari-fish-tikka.png",
   },
   {
     id: "d2",
