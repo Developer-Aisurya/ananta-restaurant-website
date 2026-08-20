@@ -22,7 +22,7 @@ export const DISHES = [
     description:
       "Basa fillets marinated in carom seed, gram flour and ginger, seared in the tandoor till the crust crackles.",
     image:
-      "./src/assets/amritsari-fish-tikka.png",
+      "/amritsari-fish-tikka.png",
   },
   {
     id: "d2",
@@ -34,7 +34,7 @@ export const DISHES = [
     description:
       "Hung curd and cream cheese rolled in crisp pastry, fried to a whisper-light shell, finished with tamarind.",
     image:
-      "/src/assets/dahi-ke-sholay.png",
+      "/dahi-ke-sholay.png",
   },
   {
     id: "d3",
@@ -46,7 +46,7 @@ export const DISHES = [
     description:
       "Coastal prawns in a Malwani chile-coconut marinade, char-grilled over coal for a smoked, briny finish.",
     image:
-      "/src/assets/tandoori-prawns-malwani.png",
+      "/tandoori-prawns-malwani.png",
   },
   {
     id: "d4",
@@ -58,7 +58,7 @@ export const DISHES = [
     description:
       "Chicken thigh steeped in cream, cashew and green cardamom, kissed by fire until silken at the centre.",
     image:
-      "/src/assets/murgh-malai-kebab.png",
+      "/murgh-malai-kebab.png",
   },
   {
     id: "d5",
@@ -70,7 +70,7 @@ export const DISHES = [
     description:
       "Whole cauliflower rubbed with Kashmiri chile and hung curd, roasted slowly until the edges caramelise.",
     image:
-      "/src/assets/tandoori-gobhi.png",
+      "/tandoori-gobhi.png",
   },
   {
     id: "d6",
